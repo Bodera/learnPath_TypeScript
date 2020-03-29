@@ -4,7 +4,7 @@ Learning resources for [TypeScript](https://github.com/Microsoft/TypeScript).
 
 ## Briefing
 
-TypeScript is not a programming language, is a superset of JavaScript code, static typing, used in the development environments that compiles to JavaScript code. It's usefulness increase by enabling IntelliSense. This technology was created by [Microsoft](https://www.microsoft.com/en-US).
+TypeScript is not a programming language, is a superset of JavaScript code, static typing, used in the development environments that transpile to JavaScript code. It's usefulness increase by enabling IntelliSense. This technology was created by [Microsoft](https://www.microsoft.com/en-US).
 
 Is not wise consider to give up JavaScript and start running out to rewrite old programs or changing the method to solve problems, in execution time (aka production environments), where the dynamic typing way of JS will've got your preference.
 
